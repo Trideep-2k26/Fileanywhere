@@ -176,32 +176,3 @@ npm run dev
 * Upload files via drag-and-drop
 * View/download/delete files with animations
 
----
-
-## ⚠️ Troubleshooting
-
-* MongoDB connection errors? Check `MONGO_URI`.
-* JWT issues? Ensure `JWT_SECRET` is in `.env`.
-* CORS issues? Confirm backend allows `http://localhost:3000`.
-* Missing frontend styles? Check Tailwind and Vite setup.
-
----
-
-## 📥 Submission
-
-Push code to GitHub:
-
-```bash
-git add .
-git commit -m "Complete FileAnywhere project"
-git push origin main
-```
-
-Submit the repo URL to:
-[https://forms.gle/n82Erz4ZpEgu9B9z7](https://forms.gle/n82Erz4ZpEgu9B9z7) by **June 14, 2025**.
-
----
-
-## 📢 Contact
-
-For any queries or issues, please email: **[hr@istechnova.in](mailto:hr@istechnova.in)**
